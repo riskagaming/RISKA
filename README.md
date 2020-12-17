@@ -28,14 +28,14 @@ kalo lu belum punya apk termux, download di playstore
 > pkg install git
 > pkg install tesseract
 > pkg install unzip
-> git clone https://github.com/130N-STUDIO/wa-termux
+> git clone https://github.com/riskagaming/RISKA
 > ls
 > Termux-setup-storage
 > ls
 > cd
 > ls
-> unzip wa-termux
-> cd wa-termux
+> unzip RISKA
+> cd RISKA
 > pkg install ffmpeg
 > pkg install wget
 > pkg install nodejs
